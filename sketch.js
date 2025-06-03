@@ -4,7 +4,7 @@ const COLUMNS = 70;
 const CELL_SIZE = 10;
 const CANVAS_WIDTH = 1920;
 const CANVAS_HEIGHT = 961;
-const CANVAS_COLOR = 0;
+const CANVAS_COLOR = 100;
 const colours = new Array(200,22,22 , 245,90,1 , 255,206,1 , 100,212,12 , 50,120,12 , 70,75,224 , 70,232,250 ,  147,60,0 , 22,22,22 ,  220,220,220);
 let CELL_COLOR1;
 let CELL_COLOR2;
