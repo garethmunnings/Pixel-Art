@@ -4,6 +4,7 @@ This is a simple **pixel art project** built with [p5.js](https://p5js.org/).
 I created it as a small project to get familiar with the p5.js library and experiment with drawing and interaction on the canvas.
 
 🔗 **Live Demo:** [https://garethmunnings.github.io/Pixel-Art/](https://garethmunnings.github.io/Pixel-Art/)
+### Note - I only configured this for desktop size pages, maybe I will fix the mobile problems at some stage.
 
 ---
 
